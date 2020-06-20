@@ -1,7 +1,7 @@
 name: Changelog
 
 on:
-  push:
+  pop:
     branches: [ master ]
     paths:
       - CHANGELOG.md
